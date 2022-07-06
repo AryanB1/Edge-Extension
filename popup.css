@@ -1,0 +1,37 @@
+body{
+    width: 350px;
+    height: 400px;
+    background-color: #FAF9F6;
+}
+h2{
+    text-align: center;
+}
+hr{
+    color:black;
+}
+div {
+    text-align: center;
+}
+#help{
+    background-color: orange;
+}
+button {
+    outline: none;
+    padding: 15px 32px;
+    margin: 1px;
+    border: 2px;
+    border-radius: 15%;
+    background-color: red;
+}
+#Drive {
+    background-color: lightgreen;
+}
+#tabDuplicate {
+    background-color: lightgreen;
+}
+#Office {
+    background-color: lightgreen;
+}
+#Google {
+    background-color: lightgreen;
+}
